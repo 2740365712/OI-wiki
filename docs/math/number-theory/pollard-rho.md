@@ -219,6 +219,7 @@ $$
       }
     }
     ```
+    1
 
 例题：[P4718【模板】Pollard-Rho 算法](https://www.luogu.com.cn/problem/P4718)
 
